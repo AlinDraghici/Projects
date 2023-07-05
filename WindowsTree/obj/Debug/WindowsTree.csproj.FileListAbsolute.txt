@@ -1,0 +1,11 @@
+A:\VisualStudio\Projects\WindowsTree\bin\Debug\WindowsTree.exe.config
+A:\VisualStudio\Projects\WindowsTree\bin\Debug\WindowsTree.exe
+A:\VisualStudio\Projects\WindowsTree\bin\Debug\WindowsTree.pdb
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.csproj.AssemblyReference.cache
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.csproj.SuggestedBindingRedirects.cache
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.Properties.Resources.resources
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.csproj.GenerateResource.cache
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.exe
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.pdb
+A:\VisualStudio\Projects\WindowsTree\obj\Debug\WindowsTree.Form1.resources

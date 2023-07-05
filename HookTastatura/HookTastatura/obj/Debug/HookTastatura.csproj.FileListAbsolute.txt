@@ -1,0 +1,10 @@
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\obj\Debug\HookTastatura.csproj.AssemblyReference.cache
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\obj\Debug\HookTastatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\obj\Debug\HookTastatura.Properties.Resources.resources
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\obj\Debug\HookTastatura.csproj.GenerateResource.cache
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\obj\Debug\HookTastatura.csproj.CoreCompileInputs.cache
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\bin\Debug\HookTastatura.exe.config
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\bin\Debug\HookTastatura.exe
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\bin\Debug\HookTastatura.pdb
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\obj\Debug\HookTastatura.exe
+C:\Users\alin_\source\repos\HookTastatura\HookTastatura\obj\Debug\HookTastatura.pdb

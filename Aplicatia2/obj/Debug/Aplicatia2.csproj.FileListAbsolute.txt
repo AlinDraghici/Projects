@@ -1,0 +1,11 @@
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.csproj.AssemblyReference.cache
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.csproj.SuggestedBindingRedirects.cache
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.Form1.resources
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.Properties.Resources.resources
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.csproj.GenerateResource.cache
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Projects\Aplicatia2\bin\Debug\Aplicatia2.exe.config
+A:\VisualStudio\Projects\Aplicatia2\bin\Debug\Aplicatia2.exe
+A:\VisualStudio\Projects\Aplicatia2\bin\Debug\Aplicatia2.pdb
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.exe
+A:\VisualStudio\Projects\Aplicatia2\obj\Debug\Aplicatia2.pdb

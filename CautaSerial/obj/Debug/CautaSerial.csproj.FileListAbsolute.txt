@@ -1,0 +1,13 @@
+A:\VisualStudio\Projects\CautaSerial\bin\Debug\CautaSerial.exe.config
+A:\VisualStudio\Projects\CautaSerial\bin\Debug\CautaSerial.exe
+A:\VisualStudio\Projects\CautaSerial\bin\Debug\CautaSerial.pdb
+A:\VisualStudio\Projects\CautaSerial\bin\Debug\Newtonsoft.Json.dll
+A:\VisualStudio\Projects\CautaSerial\bin\Debug\Newtonsoft.Json.xml
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.csproj.AssemblyReference.cache
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.csproj.SuggestedBindingRedirects.cache
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.Properties.Resources.resources
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.csproj.GenerateResource.cache
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.csproj.CopyComplete
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.exe
+A:\VisualStudio\Projects\CautaSerial\obj\Debug\CautaSerial.pdb

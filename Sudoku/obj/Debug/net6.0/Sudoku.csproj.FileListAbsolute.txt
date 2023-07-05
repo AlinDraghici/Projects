@@ -1,0 +1,15 @@
+A:\VisualStudio\Projects\Sudoku\bin\Debug\net6.0\Sudoku.exe
+A:\VisualStudio\Projects\Sudoku\bin\Debug\net6.0\Sudoku.deps.json
+A:\VisualStudio\Projects\Sudoku\bin\Debug\net6.0\Sudoku.runtimeconfig.json
+A:\VisualStudio\Projects\Sudoku\bin\Debug\net6.0\Sudoku.dll
+A:\VisualStudio\Projects\Sudoku\bin\Debug\net6.0\Sudoku.pdb
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.csproj.AssemblyReference.cache
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.AssemblyInfoInputs.cache
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.AssemblyInfo.cs
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.dll
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\refint\Sudoku.dll
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.pdb
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\Sudoku.genruntimeconfig.cache
+A:\VisualStudio\Projects\Sudoku\obj\Debug\net6.0\ref\Sudoku.dll

@@ -1,0 +1,15 @@
+A:\VisualStudio\Projects\Puzzle\bin\Debug\net6.0\Puzzle.exe
+A:\VisualStudio\Projects\Puzzle\bin\Debug\net6.0\Puzzle.deps.json
+A:\VisualStudio\Projects\Puzzle\bin\Debug\net6.0\Puzzle.runtimeconfig.json
+A:\VisualStudio\Projects\Puzzle\bin\Debug\net6.0\Puzzle.dll
+A:\VisualStudio\Projects\Puzzle\bin\Debug\net6.0\Puzzle.pdb
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.csproj.AssemblyReference.cache
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.AssemblyInfoInputs.cache
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.AssemblyInfo.cs
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.dll
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\refint\Puzzle.dll
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.pdb
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\Puzzle.genruntimeconfig.cache
+A:\VisualStudio\Projects\Puzzle\obj\Debug\net6.0\ref\Puzzle.dll

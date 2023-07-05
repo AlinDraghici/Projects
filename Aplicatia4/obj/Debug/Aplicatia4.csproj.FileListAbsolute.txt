@@ -1,0 +1,44 @@
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\Aplicatia4.exe.config
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\Aplicatia4.exe
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\Aplicatia4.pdb
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.csproj.AssemblyReference.cache
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.csproj.SuggestedBindingRedirects.cache
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.Form1.resources
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.Properties.Resources.resources
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.csproj.GenerateResource.cache
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.csproj.CoreCompileInputs.cache
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.exe
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.pdb
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\bin\Debug\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+A:\VisualStudio\Projects\Aplicatia4\obj\Debug\Aplicatia4.csproj.CopyComplete
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\Aplicatia4.exe.config
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\Aplicatia4.exe
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\Aplicatia4.pdb
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\pl\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\ru\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\bin\Debug\zh-Hant\Microsoft.Win32.TaskScheduler.resources.dll
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.csproj.AssemblyReference.cache
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.csproj.SuggestedBindingRedirects.cache
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.Form1.resources
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.Properties.Resources.resources
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.csproj.GenerateResource.cache
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.csproj.CoreCompileInputs.cache
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.csproj.CopyComplete
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.exe
+D:\Practica\Ziua 2 & 3\Aplicatia4\obj\Debug\Aplicatia4.pdb
